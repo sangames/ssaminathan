@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-08T06:54:23.874Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="f830M-sKMIXHLPaS5xrU" version="15.1.2" type="github" pages="2">
+<mxfile modified="2021-10-08T07:39:44.011Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BTGDAaRJKwKO4mqIrvbS" version="15.1.2" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="946" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -307,6 +307,24 @@
       <root>
         <mxCell id="nAwtjLf2LPFATTqxhPD2-0" />
         <mxCell id="nAwtjLf2LPFATTqxhPD2-1" parent="nAwtjLf2LPFATTqxhPD2-0" />
+        <mxCell id="nAwtjLf2LPFATTqxhPD2-14" value="RiderInput&lt;br&gt;(HTTP POST)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nAwtjLf2LPFATTqxhPD2-1" source="nAwtjLf2LPFATTqxhPD2-2" target="nAwtjLf2LPFATTqxhPD2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nAwtjLf2LPFATTqxhPD2-2" value="Rider System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nAwtjLf2LPFATTqxhPD2-1">
+          <mxGeometry x="80" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nAwtjLf2LPFATTqxhPD2-4" value="Location Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nAwtjLf2LPFATTqxhPD2-1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nAwtjLf2LPFATTqxhPD2-7" value="Address&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="nAwtjLf2LPFATTqxhPD2-1">
+          <mxGeometry x="680" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nAwtjLf2LPFATTqxhPD2-9" value="RiderInput Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nAwtjLf2LPFATTqxhPD2-1">
+          <mxGeometry x="360" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nAwtjLf2LPFATTqxhPD2-10" value="UserData Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nAwtjLf2LPFATTqxhPD2-1">
+          <mxGeometry x="360" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
